@@ -1,4 +1,4 @@
-# Hi there future beeing
+# Hi there future being
 
 This is a short note I wanted to leave that goes into githubs arctic vault, which is where you've found this. I'm one of the many developers from this platform that we used to store, manage and share our programs. I'm bar far not someone special, just someone who really likes computers and create programs.
 
